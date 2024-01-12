@@ -4,3 +4,5 @@
 
 layout: default
 ---
+<h1>Welcome</h1>
+<p>More to come.</p>
