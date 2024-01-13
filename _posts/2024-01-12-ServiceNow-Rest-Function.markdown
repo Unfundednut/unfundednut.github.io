@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ServiceNow Rest Function"
-date:   2024-01-11 19:49:21 -0600
+date:   2024-01-12 20:49:21 -0600
 tags: [scripting, python]
 ---
 So I am tasked with randomly pulling data out of ServiceNow via the API and then doing small ETL tasks with it. Most of the SDKs are just way to much for a quick dirty need. So I cobbled this together so I have a small, lightweight function that I can easily adjust to random odd needs.
